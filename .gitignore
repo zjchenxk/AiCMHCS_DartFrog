@@ -1,0 +1,26 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+build/
+.flutter-plugins*
+.pub-cache/
+.pub/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 系统/日志
+*.log
+Thumbs.db
+.DS_Store
+
+# 后端构建产物（dart_frog build 输出）
+backend/build/
+
+# 前端构建产物
+frontend/build/
+
+# 临时文件
+*.tmp
